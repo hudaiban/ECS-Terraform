@@ -4,8 +4,8 @@
 #  choose your service provider in this case is Alibaba
 provider "alicloud" {
   # Access and secret key is a must, it can be found within your account (check README on how to find it)  
-  access_key = "LTAI5tChogEhwaV5rAfUzGe6"
-  secret_key = "x1Y8LZXkUGuPr1GXMClsambrY4BHnv"
+  access_key = "USE YOUR OWN"
+  secret_key = "USE YOUR OWN"
 
   #   Choose a region (this is for sydney)
   region = "ap-southeast-2"
