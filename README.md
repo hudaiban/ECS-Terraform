@@ -5,9 +5,8 @@
 <ul>
 <li>Alibaba Cloud Account</li>
 <li>Terraform</li>
-<li>Access Key and secret key [picture will be down below]</li>
+<li>Access Key and secret key </li>
 </ul>
-<!-- [photo]: /url/to/img.jpg "Optional Title" -->
 
 # Getting Started
 
@@ -18,7 +17,7 @@
 <li>Go To menu (upper right corner)</li>
 <li>Navigate to [Resource Access Management]</li>
 <li>Click to the user which will appear in users table, eu_admin@...etc</li>
-<li>Create a AccessKy and save the keys (You can not copy secret key after closing pop-up tab)</li>
+<li>Create a AccessKey and save the keys (You can not copy secret key after closing pop-up tab)</li>
 </ul>
 
 #### After Following the Code
